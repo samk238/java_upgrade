@@ -1,4 +1,9 @@
-#! /bin/bash
+#################################################################################
+# Author: Sampath Kunapareddy                                                   #
+# sampath.a926@gmail.com                                                        #
+#################################################################################
+#!/bin/bash
+#set -x
 #Script to upgrade Java to latest version available and update jdk version references with softlink
 
 export PROP_FILE="/software/scripts/middleware.properties"
